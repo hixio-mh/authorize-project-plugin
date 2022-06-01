@@ -38,7 +38,7 @@
   <properties>
     <jenkins.version>2.89.4</jenkins.version>
     <java.level>8</java.level>
-    <workflow.version>1.0</workflow.version> <!-- only for testing purpose -->
+    <workflow.version>2.65</workflow.version> <!-- only for testing purpose -->
   </properties>
 
   <dependencyManagement>
